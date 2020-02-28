@@ -8,5 +8,6 @@ namespace WebGitTeste3.Models
     public class Model2
     {
         public int id { get; set; }
+        public int city { get; set; }
     }
 }
